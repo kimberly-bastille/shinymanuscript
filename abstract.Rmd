@@ -1,0 +1,7 @@
+---
+title: "abstract"
+output: html_document
+date: "2024-06-10"
+---
+
+Recreational fisheries managers are challenged with making decisions that will impact millions of individuals and their communities. As fisheries scientists, it is our job to provide managers with the tools necessary to make informed decisions. We built a decision support tool (DST) which allows managers to explore how changes in fishing season, bag limit, and minimum size of Summer Flounder (*Paralichthys dentatus*), Black Sea Bass (*Centropristis striata*), and Scup (*Stenotomus chrysops*) impact estimates of harvest, discards, and angler satisfaction for the recreational fishery in the U.S. Mid-Atlantic region. The success of this tool is due to early and often stakeholder engagement, embracing new technologies, and ensuring transparency. In this paper, we outline how we worked closely with managers to built and diseminated the DST used to make management decisions in the 2024 recreational fishing season. 
